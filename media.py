@@ -2,6 +2,7 @@ import webbrowser
 
 ##Class to define movie object
 class Movie():
+    ##Constructor to define the class Movie
     def __init__(self, title,poster_image_url, trailer_youtube_url):
         self.title = title;
         self.poster_image_url = poster_image_url;

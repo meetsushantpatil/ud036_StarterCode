@@ -2,6 +2,8 @@ import media
 import fresh_tomatoes
 
 ##Movie objects
+##Add or remove Movie instances to add or remove your favourite movies. These are the ones for your reference.
+##PS - Tom Hanks is my favourite.
 
 toy_story = media.Movie("Toy Story",
                             "http://www.impawards.com/1995/posters/toy_story_ver1_xlg.jpg",
@@ -31,6 +33,7 @@ hobbit_an_unexpected_journey = media.Movie("Hobbit - An Unexpected Journey",
                                   "http://t3.gstatic.com/images?q=tbn:ANd9GcTS1VqOgP7iJC44UcztFaTbvD0OzoRymEhXfMPlgq7FPY0OEvCj",
                                   "https://www.youtube.com/watch?v=y2M8BbTfZTA")
 
+##Do not forget to add the instance name to this list.
 movie_list =  [toy_story,
                apollo13,
                sleepless_in_seattle,
