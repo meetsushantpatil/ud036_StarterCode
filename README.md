@@ -11,6 +11,7 @@ Create a workspace to start working on your project, by executing these commands
 `mkdir my_directory`
 
 Import this code from [my](https://github.com/meetsushantpatil/ud036_StarterCode) github repository.
+
 `git clone https://github.com/meetsushantpatil/ud036_StarterCode.git`
 
 ### Executing code & displaying the static webpage
