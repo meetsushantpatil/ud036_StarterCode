@@ -7,6 +7,7 @@ This is a server-side code to store a list of your favorite movies, including bo
 It is assumed that you have Python 2.7 environment on your system to execute this code. You can download python IDLE from [here](https://www.python.org/downloads/).
 
 Create a workspace to start working on your project, by executing these commands on your terminal.
+
 `mkdir my_directory`
 
 Import this code from [my](https://github.com/meetsushantpatil/ud036_StarterCode) github repository.
@@ -17,4 +18,5 @@ You can define your favourite movie list in `entertainment_center.py`, by editin
 
 And finally you can create & launch your static webpage, by executing :
 > `python entertainment_center.py`
+
 It will launch the webpage on your defualt browser, click on your movie to see the trailer. Have fun !
