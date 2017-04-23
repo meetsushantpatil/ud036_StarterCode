@@ -1,5 +1,3 @@
-import webbrowser
-
 ##Class to define movie object
 class Movie():
     ##Constructor to define the class Movie
