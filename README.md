@@ -13,7 +13,7 @@ Import this code from [my](https://github.com/meetsushantpatil/ud036_StarterCode
 `git clone https://github.com/meetsushantpatil/ud036_StarterCode.git`
 
 ### Executing code & displaying the static webpage
-You can define your favourite movie list by editing `entertainment_center.py`, by editing movie name, poster url & youtube trailer url. Also add this object instance to **movie_list** defined in teh script.
+You can define your favourite movie list in `entertainment_center.py`, by editing movie name, poster url & youtube trailer url. Also add this object instance to **movie_list** defined in teh script.
 
 And finally you can create & launch your static webpage, by executing :
 > `python entertainment_center.py`
